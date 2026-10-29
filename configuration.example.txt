@@ -1,0 +1,3 @@
+TELEGRAM_API_ID=
+TELEGRAM_API_HASH=
+TELEGRAM_CHANNELS=example_public_channel
